@@ -1,14 +1,16 @@
 # Mariya Krylova
 
 ## CONTACTS
-*__E-mail:__ mariya.wings@gmail.com;
-*__Telegram:__ @sherlok_krylovich;
-*__GitHub:__ Krylovich;
+* __E-mail:__ mariya.wings@gmail.com;
+* __Telegram:__ @sherlok_krylovich;
+* __GitHub:__ Krylovich;
 ## ABOUT ME
 
-Hi. My name's Mariya. I'm 26 y.o. 
-I worked as actress and children animator some years ago. I always liked to work with people. But I had to change my job and way of development because of the lockdown in 2020. It was the perfect time to find myself and new opportunities. I deсided to try Web development. It turned out to be very interesting for me. It's very cool you can see what you do in real time to opening browser! 
-Now I work as HTML coder and copywriter. I don't regret to change jobs, becouse I like to learn programming logic. I believe, that my soft-skills and ability to learn new will help me to become good Frontend Developer.
+Hi. My name is Mariya. I'm 26 y.o.
+I've always loved to work with people. That is why I've worked as an actress and children animator for several years. But lockdown in 2020 changed my life. I lost my job, so i decided to change my way of development and started to study Web development. And I have to say that it was a perfect time to find myself and new opportunities, because it's so cool to see results of your work just by opening your browser!
+Now I work as an HTML coder and a copywriter. I don't regret I changed my job, because it turned out that I love learning programmic logic and find it very interesting.
+
+I believe that my soft-skills and ability to learn new information will help me to become a good Frontend Developer. 
 ## SKILLS
 * HTML5, CSS3;
 * JavaScript (Basic);
