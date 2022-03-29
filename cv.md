@@ -18,6 +18,7 @@ I believe that my soft-skills and ability to learn new information will help me 
 * VSCode
 * Figma
 ## CODE EXAMPLE
+
 ```
 function myMessage(word1, word2) {
     return word1 + word2;
